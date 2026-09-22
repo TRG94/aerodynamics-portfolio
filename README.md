@@ -1,6 +1,12 @@
 # Thinnesh Ragupathy | Experimental Aerodynamics Portfolio
 
-Ph.D. researcher in Mechanical Engineering specializing in experimental aerodynamics, wind-tunnel testing, full-field optical diagnostics, surface pressure and skin-friction measurement, and MATLAB-based data reduction.
+Ph.D. researcher in Mechanical Engineering specializing in experimental aerodynamics, wind-tunnel testing, full-field optical diagnostics, surface pressure and skin-friction measurement, and MATLAB-based quantitative data analysis.
+
+## Project Portfolio
+
+📄 [View Full Experimental Aerodynamics Portfolio](./Thinnesh_Experimental_Aerodynamics_Portfolio.pdf)
+
+A visual overview of my work in experimental aerodynamics, wind-tunnel testing, vehicle aerodynamics, full-field flow diagnostics, pressure and skin-friction measurements, and quantitative data analysis.
 
 ## Selected Projects
 
